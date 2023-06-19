@@ -16,9 +16,15 @@
     ],
     "require": {
         "composer/installers": "^2.0",
+        "drupal/config_split": "^2.0@RC",
         "drupal/core-composer-scaffold": "^10.0",
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
+        "drupal/devel": "^5.0",
+        "drupal/ds": "^5.0@alpha",
+        "drupal/linkit": "^6.0@RC",
+        "drupal/paragraphs": "^1.15",
+        "drupal/pathauto": "^1.11",
         "drush/drush": "^12.1"
     },
     "require-dev": {
